@@ -1,0 +1,36 @@
+*{
+  font-family: 'Blinker';
+}
+
+body{
+  background-color: rgb(27, 27, 27);
+  color: azure;
+}
+
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 15px;
+  opacity: 0.7;
+  transition: 0.3s;
+}
+li a:hover{
+
+  opacity: 1;
+}
+a:hover{
+  opacity: 1;
+}
+
+p{
+  color: antiquewhite;
+}
+.navbar{
+  border-bottom: 1px solid #fff;
+}
+.container{
+  margin-top: 35px;
+}
